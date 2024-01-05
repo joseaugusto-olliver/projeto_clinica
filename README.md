@@ -39,3 +39,9 @@ Este desafio tem como objetivo, criar um site "quase" completo. Os temas que dev
 - width
 - height
 - padding
+
+## Feito por:
+
+### José Augusto S. de Oliveira
+
+### Linkedin: https://www.linkedin.com/in/jos%C3%A9-augusto-oliveira-b18390152/
