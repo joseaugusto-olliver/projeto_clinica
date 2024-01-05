@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+html, body {
+    margin: 0;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+
+.header {
+    padding: 1.1rem;
+    background-color: rgb(27, 27, 119);
+    min-height: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.link {
+    font-size: 1rem;
+    color: white;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: rgb(21, 197, 228);
+}
+
+.content {
+    background-color: white;
+    min-height: 84.5%;
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.h1_content {
+    padding-left: 2%;
+    font-size: 4rem;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(27,27,119);
+    padding: 0;
+}
+
+.p_content {
+    font-size: 1.3rem;
+    color: rgb(6, 86, 100);
+}
+
+.img_oftalmologista {
+    width: 20rem;
+}
+
+.imagem_exame {
+    width: 35%;
+    height: 55%;
+    border-radius: 2rem;
+}
+
+.footer {
+    background-color: rgb(27, 27, 119);
+    min-height: 60px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.imagem_footer {
+    width: 3%;
+    padding: 0 0 0 2rem;
+}
+
+.texto_footer {
+    display: inline-block;
+}
+
+.content_contato {
+    padding: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.formulario {
+    display: inline-block;
+    width: 90px;
+}
+
+.h1_formulario {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(27,27,119);
+}
+
+.label_formulario {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(6, 86, 100);
+}
+
+.h3_contato {
+    padding-left: 2%;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(27,27,119);
+    padding: 0;
+}
+
+.mapa {
+    width: 20rem;
+    height: 20rem;
+}
